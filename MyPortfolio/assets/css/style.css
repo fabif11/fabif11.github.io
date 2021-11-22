@@ -179,6 +179,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 
 .testimonials-slider .swiper-pagination {
   margin-top: -60px;
+  padding-top: 70px;
   position: relative;
 }
 .testimonials-slider .swiper-pagination .swiper-pagination-bullet {
@@ -449,4 +450,18 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 }
 .social a:hover {
   color: #000;
+}
+
+.logga {
+  width: 70%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+}
+
+.logga img {
+  display:block;
+  width: 100%;
+  height: auto;
 }
