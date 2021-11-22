@@ -137,7 +137,8 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   margin: 0 auto;
 }
 .testimonial-wrap .testimonial img {
-  border-radius: 50%;
+  /*border-radius: 50%;
+  width: 120px;*/
   width: 120px;
   margin: 0 auto 30px auto;
 }
